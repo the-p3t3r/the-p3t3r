@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @the-p3t3r
+- 👀 I’m interested in Third-Party Risk Management
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on TPRM
+- 😄 Pronouns: He/Him
